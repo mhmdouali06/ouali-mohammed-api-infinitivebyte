@@ -1,6 +1,6 @@
 # Property Management Application
 
-This Property Management Application is designed to handle various aspects of property management, including adding properties, managing tenants, and monitoring rental payments. The application also includes optional features such as property filtering and sorting, automated email notifications (mocked), and unit tests.
+This Property Management Application is designed to handle various aspects of property management, including adding properties, managing tenants, and monitoring rental payments. The application also includes optional features such as property filtering and sorting, automated email notifications.
 
 ## Set Up the Environment:
 
